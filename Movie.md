@@ -14,4 +14,16 @@ Obviously it's not *completely* historically accurate, but it bases it's content
 individuals during the time of the Revolutionary War. That, and a movie with Mel Gibson playing as a southern war hero
 was bound to be good.
 
-![The Patriot](/assets/images/Patriot2.jpg)
+![The Patriot](https://user-images.githubusercontent.com/122482707/216227355-d29b8958-eb23-493c-8e2d-6d923e08a38e.jpg)
+
+https://www.sonypictures.com/movies/thepatriot
+https://www.imdb.com/title/tt0187393/
+
+```java
+class Movie {
+  public static void main(String[] args) {
+    System.out.println("The Patriot, released in 2000.");
+  }
+}
+```
+    
